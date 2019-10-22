@@ -13,28 +13,20 @@ void visit(List L)
 
 Status equal(ElemType e1, ElemType e2)
 {
-	return e1 == e2 ? OK : ERROR;
+	return e1 == e2 ? TRUE : FALSE;
 }
 
 int main()
 {
-	List L;
-	ElemType e;
-	
-	Status s = Init(L);
-	if (s == OK)
-	{
-		printf("init success!\n");
-	}
+	List La;
+	Init(La);
 	for (int i = 1; i < 13; i++)
 	{
-		Insert(L, i, i);
+		Insert(La, i, i);
 	}
-	Delete(L, 4, e);
-	Traverse(L, visit);
-
-	int index = Locate(L, 10, equal);
-	printf("index = %d\n", index);
-
+	
+	Traverse(La, visit);
+	printf("La length = %d\n", Length(La));
+	
 	return 0;
 }

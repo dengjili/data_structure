@@ -56,12 +56,12 @@ int Locate(List L, ElemType e, Status (* compare)(ElemType, ElemType))
 	ElemType * begin = L.elem, * end = (L.elem +  L.length);
 	for (; begin < end; begin++, index++)
 	{
-		if ((* compare)(* begin, e) == OK)
+		if ((* compare)(* begin, e) == TRUE)
 		{
 			return index;
 		}
 	}
-	return ERROR;
+	return FALSE;
 }
 
 Status Insert(List &L, int i, ElemType e)
@@ -80,7 +80,7 @@ Status Insert(List &L, int i, ElemType e)
 			exit(OVERFLOW);
 		}
 		L.elem = newElem;
-		L.size += LIST_INIT_SIZE;
+		L.size += LIST_INCREMENT;
 	}
 
 	// 3. 移动，挪出插入位置
