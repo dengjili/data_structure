@@ -12,7 +12,7 @@
 * [2.4-线性表插入](./chapter02/2-4/main.cpp)
 * [2.5-线性表删除](./chapter02/2-5/main.cpp)
 * [2.6-线性表元素定位](./chapter02/2-6/main.cpp)
-* [2.7-线性表合并](./chapter02/2-7/main.cpp)
+* [2.7-线性表合并【针对2.2算法的改进，指针版本】](./chapter02/2-7/main.cpp)
 
 ### 链式表示和实现
 * [2.8-抽象类型Triplet的表示和实现](./chapter02/2-8/main.cpp)
