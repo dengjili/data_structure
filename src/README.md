@@ -15,6 +15,25 @@
 * [2.7-线性表合并【针对2.2算法的改进，指针版本】](./chapter02/2-7/main.cpp)
 
 ### 链式表示和实现
-* [2.8-抽象类型Triplet的表示和实现](./chapter02/2-8/main.cpp)
-* [2.9-抽象类型Triplet的表示和实现](./chapter02/2-9/main.cpp)
-* [2.10-抽象类型Triplet的表示和实现](./chapter02/2-10/triplet.cpp)
+
+#### 线性链表
+
+##### 基于动态结点实现
+* [2.8-线性链表获取结点元素](./chapter02/2-8/main.cpp)
+* [2.9-线性链表插入结点元素](./chapter02/2-9/main.cpp)
+* [2.10-线性链表删除结点元素](./chapter02/2-10/main.cpp)
+* [2.11-线性链表创建](./chapter02/2-11/main.cpp)
+* [2.12-线性链表合并【2.2指针存储结构实现】](./chapter02/2-12/main.cpp)
+
+##### 基于数组实现
+* [2.13-抽象类型Triplet的表示和实现](./chapter02/2-13/main.cpp)
+* [2.14-抽象类型Triplet的表示和实现](./chapter02/2-14/main.cpp)
+* [2.15-抽象类型Triplet的表示和实现](./chapter02/2-15/main.cpp)
+* [2.16-抽象类型Triplet的表示和实现](./chapter02/2-16/main.cpp)
+* [2.17-抽象类型Triplet的表示和实现](./chapter02/2-17/main.cpp)
+
+
+
+#### 循环链表
+
+#### 双向链表
