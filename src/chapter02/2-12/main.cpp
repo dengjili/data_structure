@@ -77,7 +77,7 @@ int main()
 	Insert(head, 1, 1);
 	Insert(head, 5, 500);
 
-	// ´íÎóÎ»ÖÃ²âÊÔ
+	// error index
 	printf("status = %d\n", Insert(head, -1, 1));
 	printf("status = %d\n", Insert(head, 100, 1));
 	
