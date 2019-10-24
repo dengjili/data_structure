@@ -29,14 +29,5 @@ int main()
 	Insert(L, 1, 1);
 	Traverse(L, visit);
 
-	ElemType e;
-	Delete(L, 7, e);
-	printf("%d\n", e);
-	Delete(L, 5, e);
-	printf("%d\n", e);
-	Delete(L, 1, e);
-	printf("%d\n", e);
-	Traverse(L, visit);
-
 	return 0;
 }
