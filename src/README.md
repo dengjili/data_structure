@@ -25,12 +25,12 @@
 * [2.11-线性链表创建](./chapter02/2-11/main.cpp)
 * [2.12-线性链表合并【2.2指针存储结构实现】](./chapter02/2-12/main.cpp)
 
-##### 基于数组实现
-* [2.13-抽象类型Triplet的表示和实现](./chapter02/2-13/main.cpp)
-* [2.14-抽象类型Triplet的表示和实现](./chapter02/2-14/main.cpp)
-* [2.15-抽象类型Triplet的表示和实现](./chapter02/2-15/main.cpp)
-* [2.16-抽象类型Triplet的表示和实现](./chapter02/2-16/main.cpp)
-* [2.17-抽象类型Triplet的表示和实现](./chapter02/2-17/main.cpp)
+##### 静态链表（基于数组实现）
+* [2.13-静态链表查找](./chapter02/2-13/main.cpp)
+* [2.14-静态链表初始化](./chapter02/2-14/main.cpp)
+* [2.15-静态链表结点分配](./chapter02/2-15/main.cpp)
+* [2.16-静态链表结点释放](./chapter02/2-16/main.cpp)
+* [2.17-静态链表(A - B) U (B - A)运算](./chapter02/2-17/main.cpp)
 
 
 
