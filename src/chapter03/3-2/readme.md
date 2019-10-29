@@ -44,7 +44,7 @@
 
 	Destroy(S);
 
-所有代码入口：* [3.2-行编辑程序](./chapter03/3-2/main.cpp)
+所有代码入口： [3.2-行编辑程序](https://github.com/dengjili/data_structure/blob/master/src/chapter03/3-2/main.cpp)
 
 ******
 **测试**
