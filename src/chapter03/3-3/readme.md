@@ -2,7 +2,8 @@
 
 需要找出从入口到出来的可达路径，如图所示
 
-<img src="https://raw.githubusercontent.com/dengjili/data_structure/master/picture/chapter03/3-3/1.png" width = "400" height = "400" div align=center />
+<img src="https://raw.githubusercontent.com/dengjili/data_structure/master/picture/chapter03/3-3/1.png" width = "300" height = "300" div align=center />
+
 ******
 
 **类型定义**
@@ -69,4 +70,4 @@
 ******
 **测试**
 
-<img src="https://raw.githubusercontent.com/dengjili/data_structure/master/picture/chapter03/3-3/2.png" width = "800" height = "200" div align=center />
+<img src="https://raw.githubusercontent.com/dengjili/data_structure/master/picture/chapter03/3-3/2.png" width = "700" height = "250" div align=center />
