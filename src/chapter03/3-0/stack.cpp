@@ -24,6 +24,7 @@ Status Clear(Stack &S)
 {
 	S.top = S.base;
 	S.stacksize = 0;
+	return OK;
 }
 Status IsEmpty(Stack S)
 {
