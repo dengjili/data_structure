@@ -56,7 +56,7 @@
 
 * [3.1-数制转换](./chapter03/3-1/main.cpp)
 * [括号匹配的检验](./chapter03/3-1-1/main.cpp)
-* [3.3-行编辑程序](./chapter03/3-3/main.cpp)
+* [3.2-行编辑程序](./chapter03/3-2)
 * [3.4-迷宫求解](./chapter03/3-4/main.cpp)
 * [3.5-表达式求值](./chapter03/3-5/main.cpp)
   
