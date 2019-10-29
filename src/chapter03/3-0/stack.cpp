@@ -12,10 +12,27 @@ Status Init(Stack &S)
 	S.stacksize = STACK_INIT_SIZE;
 	return OK;
 }
-Status Destroy(Stack &S);
-Status Clear(Stack &S);
-Status IsEmpty(Stack S);
-int Length(Stack S);
+Status Destroy(Stack &S)
+{
+	free(S.base);
+	S.base = NULL;
+	S.top = NULL;
+	S.stacksize = 0;
+	return OK;
+}
+Status Clear(Stack &S)
+{
+	S.top = S.base;
+	S.stacksize = 0;
+}
+Status IsEmpty(Stack S)
+{
+	return S.top == S.base ? TRUE : FALSE;
+}
+int Length(Stack S)
+{
+	return S.stacksize;
+}
 Status GetTop(Stack S, SElemType &e)
 {
 	if (S.base == S.top)
