@@ -77,7 +77,8 @@
 * [4.2-串联接 Concat(&T,S1,S2)](./chapter04/4-2/main.cpp)
 * [4.3-求子串 SubString(&Sub,S,pos,len)](./chapter04/4-3/main.cpp)
 #### 堆分配存储表示
-* [4.4-求子串 SubString(&Sub,S,pos,len)](./chapter04/4-3/main.cpp)
+* [4.4-字符序列的复制](./chapter04/4-4/main.cpp)
+* [堆分配存储表示和实现](./chapter04/4-4-1/main.cpp)
 #### 串的块链存储表示
 
 ### 串的模式匹配算法
