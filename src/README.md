@@ -84,6 +84,7 @@
 ### 串的模式匹配算法
 * [4.5-求子串位置的定位函数 Index(S,Tpos)](./chapter04/4-5/main.cpp)
 #### 模式匹配的一种改进算法
+* [4.6-kmp算法改进Index](./chapter04/4-6/main.cpp)
 * [4.7-模式串的next函数值](./chapter04/4-7/main.cpp)
 ### 串操作应用的举例
 #### 文本编辑
