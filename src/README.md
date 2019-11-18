@@ -86,6 +86,13 @@
 #### 模式匹配的一种改进算法
 * [4.6-kmp算法改进Index](./chapter04/4-6/main.cpp)
 * [4.7-模式串的next函数值](./chapter04/4-7/main.cpp)
+* ~~4.8-求模式串T的next函数修正值并存入数组 nextval~~
 ### 串操作应用的举例
 #### 文本编辑
 #### 建立词索引表
+* [4.9-创建查询索引表主函数](./chapter04/4-9/main.cpp)
+* [4.10-索引表初始化](./chapter04/4-9/wordindex.cpp)
+* [4.11-获取从文件中读取的一行字符串](./chapter04/4-9/wordindex.cpp)
+* [4.12-定位索引表关键字是否已经创建](./chapter04/4-9/wordindex.cpp)
+* [4.13-在索引表中创建一个新的key](./chapter04/4-9/wordindex.cpp)
+* [4.14-在索引表的关键字出入新的条目](./chapter04/4-9/wordindex.cpp)
