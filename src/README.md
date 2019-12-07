@@ -96,3 +96,8 @@
 * [4.12-定位索引表关键字是否已经创建](./chapter04/4-9/wordindex.cpp)
 * [4.13-在索引表中创建一个新的key](./chapter04/4-9/wordindex.cpp)
 * [4.14-在索引表的关键字出入新的条目](./chapter04/4-9/wordindex.cpp)
+
+## 第五章
+
+### 数组的顺序表示和实现
+* [数组的顺序表示和实现(三/四维演示)](./chapter05/5-0/main.cpp)
